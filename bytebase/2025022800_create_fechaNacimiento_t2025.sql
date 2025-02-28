@@ -1,1 +1,1 @@
-ALTER TABLE Clientes ADD FechaNacimiento DATE NULL;
+ALTER TABLE Clientes ADD FechaNacimiento DATE NOT NULL;
