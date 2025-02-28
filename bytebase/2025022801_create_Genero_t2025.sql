@@ -1,0 +1,1 @@
+ALTER TABLE Clientes ADD Genero NVARCHAR(10) NOT NULL;
