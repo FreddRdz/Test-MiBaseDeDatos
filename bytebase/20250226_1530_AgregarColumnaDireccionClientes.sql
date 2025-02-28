@@ -1,0 +1,2 @@
+ALTER TABLE Clientes 
+ADD Direccion NVARCHAR(255) NULL;
